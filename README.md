@@ -52,12 +52,14 @@ To set up your python environment to run the code in this repository, follow the
 	```
 
 2. Manually install pytorch=0.4.0:
-	```conda install pytorch=0.4.0 -c pytorch
+	```bash
+	conda install pytorch=0.4.0 -c pytorch
 	```
 
 
 3. Install several dependencies:
-	```pip install .
+	```bash
+	pip install .
 	```
 
 ### Instructions
